@@ -114,7 +114,7 @@ The `code_student_predictor.ipynb` notebook covers:
 
 ## 📄 License
 
-This project is licensed under the **Apache 2.0** — see the Apache 2.0 file for details.
+This project is licensed under the **Apache 2.0** 
 
 ---
 
